@@ -7,7 +7,7 @@ using Zadatak12345.Fdnevnik;
 
 namespace Zadatak12345
 {
-    public class Student : IKorisnik
+    public class Student
     {
         public static int Id { get; set; } = 0;
         public int ID { get; set; }
