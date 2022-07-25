@@ -7,7 +7,7 @@ using Zadatak12345.Fdnevnik;
 
 namespace Zadatak12345
 {
-    public class Nastavnik : Student, IProfesor
+    public class Nastavnik : Student
     {
 
         
