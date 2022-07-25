@@ -72,7 +72,7 @@ for (int i = 0; i < dnevnik.GetOdeljenje("odeljenje6").studentsByID.Count; i++)
 }
 
 
-//Ucenik 1 odsustva
+//Ucenik 1 odsustva iz svakog od 5 predmeta koje predaje konkretan profesor i samo on moze da upise odsustvo iz svog predmeta
 
 nastavnik1.setOdsustvo(odeljenje5.getStudentByID(3), false);
 nastavnik2.setOdsustvo(odeljenje5.getStudentByID(3), false);
@@ -89,7 +89,7 @@ nastavnik4.setOdsustvo(odeljenje5.getStudentByID(7), true);
 nastavnik5.setOdsustvo(odeljenje5.getStudentByID(7), true);
 
 
-// Prosek ucenika
+// Prosek ucenika svaki profesor moze da izracuna prosek ucenika
 nastavnik3.prosekUcenika(dnevnik, $"{odeljenje5.Name}", 4);
 nastavnik3.prosekUcenika(dnevnik, $"{odeljenje5.Name}", 2);
 nastavnik3.prosekUcenika(dnevnik, $"{odeljenje5.Name}", 11);
@@ -100,13 +100,12 @@ nastavnik5.prosekUcenika(dnevnik, $"{odeljenje6.Name}", 34);
 nastavnik1.prosekUcenika(dnevnik, $"{odeljenje6.Name}", 26);
 nastavnik2.prosekUcenika(dnevnik, $"{odeljenje6.Name}", 33);
 
-//Prosek odeljenja
+//Prosek odeljenja svaki profesor moze da izracuna prosek odeljenja
 nastavnik1.prosekOdeljenja(dnevnik, odeljenje5);
 nastavnik1.prosekOdeljenja(dnevnik, odeljenje6);
 
 
 
-//Prosek ocena svakok ucenika
 Console.WriteLine("FINISH");
 Console.ReadKey();
 
