@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadatak12345/1.0.0": {
+        "runtime": {
+          "Zadatak12345.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadatak12345/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

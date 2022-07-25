@@ -1,0 +1,15 @@
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\bin\Debug\net6.0\Zadatak12345.exe
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\bin\Debug\net6.0\Zadatak12345.deps.json
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\bin\Debug\net6.0\Zadatak12345.runtimeconfig.json
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\bin\Debug\net6.0\Zadatak12345.dll
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\bin\Debug\net6.0\Zadatak12345.pdb
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.AssemblyInfoInputs.cache
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.AssemblyInfo.cs
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.dll
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\refint\Zadatak12345.dll
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.pdb
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\Zadatak12345.genruntimeconfig.cache
+C:\Users\WIN10\source\repos\Zadatak12345\Zadatak12345\obj\Debug\net6.0\ref\Zadatak12345.dll

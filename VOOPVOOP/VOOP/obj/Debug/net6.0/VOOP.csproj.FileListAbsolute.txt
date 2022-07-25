@@ -1,0 +1,15 @@
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.AssemblyInfoInputs.cache
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.AssemblyInfo.cs
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\bin\Debug\net6.0\VOOP.exe
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\bin\Debug\net6.0\VOOP.deps.json
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\bin\Debug\net6.0\VOOP.runtimeconfig.json
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\bin\Debug\net6.0\VOOP.dll
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\bin\Debug\net6.0\VOOP.pdb
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.dll
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\refint\VOOP.dll
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.pdb
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\VOOP.genruntimeconfig.cache
+C:\Users\WIN10\source\repos\VOOPVOOP\VOOP\obj\Debug\net6.0\ref\VOOP.dll
